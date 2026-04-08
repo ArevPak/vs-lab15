@@ -1,0 +1,4 @@
+/public/
+/resources/
+/hugocache/
+.hugo_build.lock
